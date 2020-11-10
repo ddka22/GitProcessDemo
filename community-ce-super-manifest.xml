@@ -9,8 +9,6 @@
   <board-manifest-list>
   </board-manifest-list>
   <middleware-manifest-list>
-    <middleware-manifest>
-    </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
 
