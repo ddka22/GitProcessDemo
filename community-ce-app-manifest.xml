@@ -1,0 +1,28 @@
+<apps>
+  <app>
+    <name>PSoC6 Advanced Sector Protection </name>
+    <id>community-ce-psoc6-advanced-sector-protection</id>
+    <uri>https://github.com/ddka22/GitProcessDemo/raw/master/memory_interfacing/Advanced_Sector_Protection</uri>
+    <description>This example project shows how advanced sector protection can be implemented in PSoC6 </description>
+    <req_capabilities>psoc6</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 1.X release</num>
+        <commit>master</commit>
+      </version>
+    </versions>
+  </app>
+  <app>
+   <name>Interfacing DHT11 with PSoC6 </name>
+   <id>community-ce-psoc6-dht11-freertos</id>
+   <uri>https://github.com/ddka22/GitProcessDemo/raw/master/sensor_interfacing/mtb-example-psoc6-dht11-freertos</uri>
+   <description>This example shows PSoC6 interfaced with DHT11 Temperature and Humidity Sensor </description>
+   <req_capabilities>psoc6</req_capabilities>
+   <versions>
+     <version>
+       <num>Latest 1.X release</num>
+       <commit>master</commit>
+     </version>
+   </versions>
+  </app>
+</apps>
